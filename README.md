@@ -5,6 +5,10 @@
 - shows tweet actions only on hover
 - fades out side bar widgets
 
+## Screenshot
+
+![screenshot](screenshot.png)
+
 ## Installation
 
 Download the latest release and drag’n’drop the folder in Chrome’s `Settings > Extensions`.
