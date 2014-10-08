@@ -2,6 +2,7 @@
 
 - navigation color changed to twitter blue
 - hides promoted tweets
+- background color changed to grey
 - shows tweet actions only on hover
 - fades out side bar widgets
 
