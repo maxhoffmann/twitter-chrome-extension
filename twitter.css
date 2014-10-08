@@ -1,0 +1,115 @@
+/*
+ * Colors
+ *
+ * Blue: #55acee
+ * Graphite: #66757f
+ * Graphite light: #99aab5
+ * Graphite lighter: #ccd6dd
+ * Web topbar light: #c4e2f9
+ *
+ * iOS topbar: #54acef
+ * iOS topbar dark: #3886c1
+ * iOS topbar light: #88c9f9
+ *
+ * Retweet (green): #77B255
+ * Favorite (orange): #ffac33
+ * iOS Favorite (yellow): #ffcc4d
+ */
+
+
+/* background */
+/* ---------- */
+
+body.logged-in {
+  background-image: none !important;
+  background-color: #fafafa !important;
+}
+
+/* navigation */
+/* ---------- */
+
+.global-nav {
+  border-bottom: 0 !important;
+}
+.global-nav-inner {
+  background-color: #54acef !important;
+}
+
+/* search box */
+.navy-seal-experiment .global-nav .search-input {
+  color: #fff !important;
+  background-color: #88c9f9 !important;
+  border: 0 !important;
+}
+.navy-seal-experiment .global-nav .search-input::-webkit-input-placeholder {
+  color: #fff !important;
+  opacity: .6 !important;
+}
+/* search box icon */
+.navy-seal-experiment .global-nav .search-icon .Icon {
+  color: #fff !important;
+}
+
+/* navigation links */
+#global-actions .new:before {
+  color: #fff !important;
+}
+.nav > li {
+  color: #fff !important;
+  opacity: .6 !important;
+  transition: opacity .3s;
+}
+#global-actions > li:hover {
+  opacity: 1 !important;
+}
+#global-actions > li:hover > a {
+  color: #fff !important;
+}
+.nav > li.active {
+  opacity: 1 !important;
+}
+#global-actions > li > a {
+  border-bottom: none !important;
+}
+
+/* tweet button */
+#global-new-tweet-button {
+  border: 0 !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+#global-new-tweet-button:hover {
+  background-color: #3886c1 !important;
+}
+.nav.right-actions > li {
+  opacity: 1 !important
+}
+
+/* tweet actions */
+.stream-item-footer,
+.bottom-tweet-actions {
+  opacity: 0 !important;
+  transition: opacity .3s;
+}
+.tweet:hover .stream-item-footer,
+.tweet:hover .bottom-tweet-actions {
+  opacity: 1 !important;
+}
+
+/* trends, who to follow, footer */
+.trends,
+.wtf-module,
+.Footer {
+  opacity: .3 !important;
+  transition: opacity .3s;
+}
+.trends:hover,
+.wtf-module:hover,
+.Footer:hover {
+  opacity: 1 !important;
+}
+
+/* promoted tweets */
+.promoted-tweet {
+  display: none !important;
+}
