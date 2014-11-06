@@ -113,3 +113,16 @@ body.logged-in {
 .promoted-tweet {
   display: none !important;
 }
+
+/* new tweet box */
+.home-tweet-box,
+html .top-timeline-tweetbox .timeline-tweet-box {
+  border-color: #e1e8ed !important;
+  background-color: #FAFAFA !important;
+}
+.tweet-box[contenteditable="true"] {
+  border-color: #e1e8ed !important;
+}
+.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
+  color: #e1e8ed !important;
+}
