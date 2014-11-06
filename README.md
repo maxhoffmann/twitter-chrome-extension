@@ -1,10 +1,11 @@
 # Twitter Chrome Extension
 
 - hides promoted tweets
-- navigation color changed to twitter blue
-- background color changed to grey
 - shows tweet actions only on hover
 - fades out side bar widgets
+- navigation color changed to twitter blue
+- background color changed to grey
+- tweet box color changed to grey
 
 ## Screenshot
 
