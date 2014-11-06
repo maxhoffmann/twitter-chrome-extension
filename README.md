@@ -13,7 +13,9 @@
 
 ## Installation
 
-[Download](https://github.com/maxhoffmann/twitter-chrome-extension/archive/master.zip) and unzip the latest release and drag’n’drop the folder in Chrome’s `Settings > Extensions`.
+[Download](https://github.com/maxhoffmann/twitter-chrome-extension/archive/master.zip), unzip the latest release and save it. Then drag’n’drop it in Chrome’s `Settings > Extensions`.
+
+__Note:__ If you remove the folder the extension will be deleted in Chrome too.
 
 
 ## License
