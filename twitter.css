@@ -34,6 +34,9 @@ body.logged-in {
 .global-nav-inner {
   background-color: #54acef !important;
 }
+#global-actions > li > a:focus {
+  color: #fff !important;
+}
 
 /* search box */
 .navy-seal-experiment .global-nav .search-input {
