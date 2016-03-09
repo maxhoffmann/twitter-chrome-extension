@@ -18,7 +18,7 @@
 
 __Note:__ If you remove the folder the extension will be deleted in Chrome too.
 
-## User Colors
+### Update your user colors to match design
 
 1. Go to https://twitter.com/settings/design.
 2. Set Background color to `#CCD6DD`.
