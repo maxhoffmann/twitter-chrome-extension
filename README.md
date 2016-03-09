@@ -6,6 +6,7 @@
 - navigation color changed to twitter blue
 - background color changed to grey
 - tweet box color changed to grey
+- hide translate button
 
 ## Screenshot
 

@@ -104,17 +104,49 @@ body.logged-in {
   opacity: 1 !important;
 }
 
-/* trends, who to follow, footer */
-.trends,
-.wtf-module,
-.Footer {
-  opacity: .3 !important;
+/* trends */
+.Trends {
+  opacity: 0.3 !important;
+  background: none !important;
+  border: none !important;
   transition: opacity .3s;
 }
-.trends:hover,
-.wtf-module:hover,
-.Footer:hover {
+.Trends:hover {
   opacity: 1 !important;
+}
+
+/* footer */
+.Footer .flex-module {
+  opacity: 0.3 !important;
+  background: none !important;
+  border: none !important;
+  transition: opacity .3s;
+}
+.Footer:hover .flex-module {
+  opacity: 1 !important;
+}
+
+/* who to follow */
+.wtf-module .flex-module {
+  opacity: 0.3 !important;
+  background: none !important;
+  border: none !important;
+  transition: opacity .3s;
+}
+.wtf-module:hover .flex-module {
+  opacity: 1 !important;
+}
+.wtf-module .flex-module-header > * {
+  display: none !important;
+}
+.wtf-module .flex-module-header > h3,
+.wtf-module .username {
+  display: block !important;
+}
+.wtf-module .js-find-friends-link,
+.wtf-module .user-actions,
+.wtf-module .social-context {
+  display: none !important;
 }
 
 /* promoted tweets */
@@ -133,4 +165,9 @@ html .top-timeline-tweetbox .timeline-tweet-box {
 }
 .top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
   color: #e1e8ed !important;
+}
+
+/* translation button */
+.translate-button {
+  display: none !important;
 }
