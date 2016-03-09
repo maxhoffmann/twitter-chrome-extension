@@ -14,7 +14,7 @@
 
 ## Installation
 
-1. **[Download](https://github.com/maxhoffmann/twitter-chrome-extension/archive/master.zip)**, unzip the latest release and save it.
+1. **[Click here to download](https://github.com/maxhoffmann/twitter-chrome-extension/archive/master.zip)**, unzip the file and save the folder on your computer.
 2. Drag and drop it in Chrome’s `Settings > Extensions`.
 3. Update user colors. (see below)
 
