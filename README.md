@@ -1,4 +1,4 @@
-# Twitter Chrome Extension v1.0.2
+# Twitter Chrome Extension `1.0.2`
 
 - hides promoted tweets
 - shows tweet actions only on hover
