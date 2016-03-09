@@ -38,6 +38,11 @@ body.logged-in {
   color: #fff !important;
 }
 
+/* twitter logo */
+.bird-topbar-etched {
+  color: white !important;
+}
+
 /* search box */
 .navy-seal-experiment .global-nav .search-input {
   color: #fff !important;
