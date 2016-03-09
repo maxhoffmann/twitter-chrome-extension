@@ -24,7 +24,7 @@ __Note:__ If you delete the folder with the extension on your computer it will a
 
 1. Go to https://twitter.com/settings/design.
 2. Set Background color to `#CCD6DD`.
-3. Set Theme color to `#55ACEE`.
+3. Set Theme color to `#4C94DC`.
 4. Click `Save changes`.
 
 ![user colors](usercolors.png)
