@@ -14,11 +14,13 @@
 
 ## Installation
 
-[Download](https://github.com/maxhoffmann/twitter-chrome-extension/archive/master.zip), unzip the latest release and save it. Then drag’n’drop it in Chrome’s `Settings > Extensions`.
+1. **[Download](https://github.com/maxhoffmann/twitter-chrome-extension/archive/master.zip)**, unzip the latest release and save it.
+2. Drag and drop it in Chrome’s `Settings > Extensions`.
+3. Update user colors. (see below)
 
-__Note:__ If you remove the folder the extension will be deleted in Chrome too.
+__Note:__ If you delete the folder with the extension on your computer it will also be removed from Chrome too.
 
-### Update your user colors to match design
+#### Update your user colors to match design
 
 1. Go to https://twitter.com/settings/design.
 2. Set Background color to `#CCD6DD`.
